@@ -15,7 +15,7 @@
 
 **VeReMiVNDN** is a comprehensive simulation framework and dataset generator for Intrusion Detection Systems (IDS) in Vehicular Named Data Networks (VNDN). This project implements 20 different multi-layer attacks and provides rich feature extraction for machine learning-based security research.
 
-> Dataset and simulation results are available in the [GitHub Releases](https://github.com/Muhammaduazir69/VNDN-Security/releases) section.
+> Dataset and simulation results are available in the [GitHub Releases](https://github.com/Muhammaduazir69/VeReMiVNDN-dataset/releases) section.
 
 ## Key Features
 
@@ -124,7 +124,7 @@
 ### Build Instructions
 
 ```bash
-git clone https://github.com/Muhammaduazir69/VNDN-Security.git
+git clone https://github.com/Muhammaduazir69/VeReMiVNDN-dataset.git
 cd VNDN-Security
 
 # Build the project
@@ -155,7 +155,7 @@ python3 utils/parsers/parse_omnet_results.py --input simulations/results --outpu
 
 ## Dataset
 
-The full simulation dataset (results, frames, and OMNeT++ logs) is available in the **[Releases](https://github.com/Muhammaduazir69/VNDN-Security/releases)** section:
+The full simulation dataset (results, frames, and OMNeT++ logs) is available in the **[Releases](https://github.com/Muhammaduazir69/VeReMiVNDN-dataset/releases)** section:
 
 | File | Description |
 |------|-------------|
@@ -217,7 +217,7 @@ If you use this framework or dataset in your research, please cite:
   author={Muhammad Uzair},
   year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/Muhammaduazir69/VNDN-Security}}
+  howpublished={\url{https://github.com/Muhammaduazir69/VeReMiVNDN-dataset}}
 }
 ```
 
@@ -234,7 +234,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## Contact
 
-- GitHub Issues: [https://github.com/Muhammaduazir69/VNDN-Security/issues](https://github.com/Muhammaduazir69/VNDN-Security/issues)
+- GitHub Issues: [https://github.com/Muhammaduazir69/VeReMiVNDN-dataset/issues](https://github.com/Muhammaduazir69/VeReMiVNDN-dataset/issues)
 
 ---
 
