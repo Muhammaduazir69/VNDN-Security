@@ -5,6 +5,12 @@
 [![INET](https://img.shields.io/badge/INET-4.5-orange)](https://inet.omnetpp.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## Simulation Screenshots
+
+| Enhanced Aljubail Scenario | Urban Attack Scenario |
+|:--------------------------:|:---------------------:|
+| ![Enhanced Aljubail](images/Enhanced-Aljubail-scenario.png) | ![Urban Attack](images/UrbanAttack-scenario.png) |
+
 ## Overview
 
 **VeReMiVNDN** is a comprehensive simulation framework and dataset generator for Intrusion Detection Systems (IDS) in Vehicular Named Data Networks (VNDN). This project implements 20 different multi-layer attacks and provides rich feature extraction for machine learning-based security research.
